@@ -1,0 +1,13 @@
+{
+	"$schema": "https://json.schemastore.org/prettierrc",
+	"semi": false,
+	"useTabs": true,
+	"singleQuote": false,
+	"printWidth": 100,
+	"trailingComma": "all",
+	"experimentalTernaries": true,
+	"plugins": [
+		"prettier-plugin-organize-imports",
+		"prettier-plugin-tailwindcss"
+	]
+}
